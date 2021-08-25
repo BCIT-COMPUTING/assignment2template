@@ -1,5 +1,5 @@
-#Name: 
-#Student: 
+//Name: 
+//Student: 
 
 #include <iostream>
 
